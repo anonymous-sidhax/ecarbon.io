@@ -1,0 +1,20 @@
+Helpful Links
+- https://www.conservation.org/carbon-footprint-calculator#/individual?zipCodeInfo=usAverage
+- https://www.nature.org/en-us/get-involved/how-to-help/carbon-footprint-calculator/
+- https://coolclimate.org/calculator
+- https://clevercarbon.io/
+
+Frontend
+Categories:
+Homepage - Location (zipcode), Number of people living, gross annual household income
+Household - 
+Transportation - 
+Travel - Personal Vehicle, Air Rail, Bus, 
+Home - Electricity, Gas, Heating Oil, Living SPace Area, Water
+Food - Non Veg, Dairy, Fruits Veggies, Snacks Drinks, Grains
+Shopping - 
+
+
+Backend
+CoolClimate API - https://coolclimate.berkeley.edu/calculators/household-staging/api.php?op=get_defaults_and_results&input_location_mode=1&input_location=07306&input_location_country=US&input_income=1&input_size=1
+Climatiq - https://docs.climatiq.io/
