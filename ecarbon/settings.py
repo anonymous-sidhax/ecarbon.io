@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-un#so11h3_32u+1e8#@4le2u5t59!5-k(b3w+xm+_^2b5t16b_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["https://ecarbon.herokuapp.com", "localhost"]
+ALLOWED_HOSTS = ["https://ecarbon.herokuapp.com", "localhost", "http://127.0.0.1:8000", "https://ercarbon-io.vercel.app"]
 
 
 # Application definition
